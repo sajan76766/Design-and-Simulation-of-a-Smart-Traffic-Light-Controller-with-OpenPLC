@@ -40,4 +40,4 @@ It is designed and simulated using the **OpenPLC Editor**, and can be deployed o
 
 - **Timers (TON, TP):** Define the time duration for each signal  
 - **Memory Bits (M0, M1, etc.):** Control phase transitions  
-- **Logic Flow:**  
+- **Logic Flow:**  Red → Yellow → Green → Yellow
