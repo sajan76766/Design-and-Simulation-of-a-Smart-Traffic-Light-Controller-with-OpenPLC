@@ -14,7 +14,7 @@ It is designed and simulated using the **OpenPLC Editor**, and can be deployed o
 
 ## Features
 
-- Sequential cycling of **Red → Green → Yellow → Red**
+- Sequential cycling of **Red → Yellow → Green → Yellow**
 - Adjustable timer durations for each phase
 - Uses **TON (On-Delay Timer)** and **TP (Pulse Timer)** functions
 - Ensures **mutual exclusivity** — only one light is ON at any time
