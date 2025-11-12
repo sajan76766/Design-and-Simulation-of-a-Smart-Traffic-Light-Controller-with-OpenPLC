@@ -42,6 +42,7 @@ It is designed and simulated using the **OpenPLC Editor**, and can be deployed o
 - **Memory Bits (M0, M1, etc.):** Control phase transitions  
 - **Logic Flow:**  Red → Yellow → Green → Yellow
 
+## Simulation Images
 -  ![image alt](https://github.com/sajan76766/Design-and-Simulation-of-a-Smart-Traffic-Light-Controller-with-OpenPLC/blob/main/Screenshot%202025-11-09%20225717.png)
 ![image alt](https://github.com/sajan76766/Design-and-Simulation-of-a-Smart-Traffic-Light-Controller-with-OpenPLC/blob/main/Screenshot%202025-11-09%20225754.png)
 ![image alt](https://github.com/sajan76766/Design-and-Simulation-of-a-Smart-Traffic-Light-Controller-with-OpenPLC/blob/main/Screenshot%202025-11-09%20225829.png)
