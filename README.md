@@ -47,5 +47,5 @@ It is designed and simulated using the **OpenPLC Editor**, and can be deployed o
 ![image alt](https://github.com/sajan76766/Design-and-Simulation-of-a-Smart-Traffic-Light-Controller-with-OpenPLC/blob/main/Screenshot%202025-11-09%20225754.png)
 ![image alt](https://github.com/sajan76766/Design-and-Simulation-of-a-Smart-Traffic-Light-Controller-with-OpenPLC/blob/main/Screenshot%202025-11-09%20225829.png)
 
-
+## Simulation video
 [▶️ Watch on Google Drive](https://drive.google.com/file/d/1ok0Xb2H7ctiYAicqPNFQlP50UBmyczVz/view?usp=drivesdk)
