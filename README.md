@@ -42,4 +42,4 @@ It is designed and simulated using the **OpenPLC Editor**, and can be deployed o
 - **Memory Bits (M0, M1, etc.):** Control phase transitions  
 - **Logic Flow:**  Red → Yellow → Green → Yellow
 
--  ![image alt](https://github.com/sajan76766/Manhole-monitoring-and-maintenance-system/blob/main/Screenshot_2025-09-05-11-12-43-610_com.whatsapp.jpg)
+-  ![image alt]( ![image alt](https://github.com/sajan76766/Manhole-monitoring-and-maintenance-system/blob/main/Screenshot_2025-09-05-11-12-43-610_com.whatsapp.jpg))
