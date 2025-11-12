@@ -1,4 +1,4 @@
-# PLC-Traffic-Light-Program
+# Design and Simulation of a Smart Traffic Light Controller with OpenPLC
 
 This project is a **Traffic Light Controller** implemented using **Ladder Logic Programming** on a **Programmable Logic Controller (PLC)**.  
 It simulates a real-world 3-color traffic signal system — **Red, Yellow, and Green** — operating in a continuous, timed sequence.
